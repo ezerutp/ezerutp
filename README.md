@@ -45,8 +45,8 @@ Estoy abierto a colaborar en proyectos relacionados con:
 
 ## 📫 Contáctame  
 
-- GitHub: [@ezerutp](https://github.com/ezerutp)   
-- Correo: [dev@ezer.pe](mailto://dev.ezer.pe)
+- GitHub: [@ezerutp](https://github.com/ezerutp)
+- Correo: [dev@ezer.pe](mailto:dev@ezer.pe)
 
 ---
 
