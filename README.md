@@ -48,9 +48,7 @@ Estoy abierto a colaborar en proyectos relacionados con:
 - GitHub: [@ezerutp](https://github.com/ezerutp)
 - Correo: [dev@ezer.pe](mailto:dev@ezer.pe)
 
----
-
-> 💬 *“La tecnología no solo se aprende, se crea, se vive y se comparte.”*
+--
 
 <!---
 ezerutp/ezerutp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
