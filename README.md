@@ -22,9 +22,20 @@ y construir herramientas que me faciliten el día a día.
 
 ---
 
+## 💡 Habilidades
+
+- Desarrollo backend con Java y Spring Boot: APIs REST, autenticación y seguridad
+- Desarrollo frontend con React y TypeScript
+- Debugging y análisis de causa raíz en aplicaciones en producción
+- Integración con servicios de terceros y pasarelas de pago
+- Testing unitario y end-to-end
+- Trabajo en equipo con code review, Git y metodologías ágiles
+
+---
+
 ## 🧰 Tecnologías
 
-Java · Spring Boot · React · TypeScript · Python · MySQL · PostgreSQL · AWS · Docker · Git · Linux
+Java · Spring Boot · React · TypeScript · Python · MySQL · PostgreSQL · AWS · Docker · JUnit · Playwright · Git · Jira · Linux
 
 ---
 
