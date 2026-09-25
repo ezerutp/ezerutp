@@ -6,6 +6,9 @@ Trabajo en desarrollo web, principalmente con **Java / Spring Boot** en el backe
 **React + TypeScript** en el frontend. Me gusta entender a fondo cómo funcionan las cosas
 y construir herramientas que me faciliten el día a día.
 
+[![Web](https://img.shields.io/badge/ezer.pe-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ezer.pe)
+[![Email](https://img.shields.io/badge/dev@ezer.pe-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@ezer.pe)
+
 ---
 
 ## 🛠️ Proyectos destacados
@@ -35,11 +38,17 @@ y construir herramientas que me faciliten el día a día.
 
 ## 🧰 Tecnologías
 
-Java · Spring Boot · React · TypeScript · Python · MySQL · PostgreSQL · AWS · Docker · JUnit · Playwright · Git · Jira · Linux
+[![Tecnologías](https://skillicons.dev/icons?i=java,spring,maven,react,ts,js,python,mysql,postgres,aws,docker,git,linux,fedora&perline=14)](https://skillicons.dev)
 
 ---
 
-## 📫 Contacto
+## 📊 Estadísticas
 
-- 🌐 [ezer.pe](https://www.ezer.pe)
-- ✉️ [dev@ezer.pe](mailto:dev@ezer.pe)
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ezerutp&theme=transparent" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ezerutp&theme=transparent" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ezerutp&hide_border=true&theme=transparent" alt="Racha de contribuciones" />
+</p>
